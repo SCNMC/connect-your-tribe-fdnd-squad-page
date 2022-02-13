@@ -11,6 +11,7 @@
 ## Beschrijving
 <!-- Voeg een mooie poster visual toe 📸 -->
 In semester 2, gaan wij heel veel bezig zijn met het gebruiken van API's. In deze applicatie wordt er data van de TribeAPI ingeladen op de website. De website is een fake NFT marketplace, waarbij de studenten van FDND erop worden getoond met behulp van de REST API.
+
 [🌐 live](http://fdnft.student.fdnd.nl/)
 
 ## ⚽️ Kenmerken
