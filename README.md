@@ -38,8 +38,8 @@ cd connect-your-tribe-fdnd-squad-page
 ```
 
 ## 🦕 Bronnen
-[🅿 Google Fonts](https://fonts.google.com/)
-[💶 Tabler Icons](https://tablericons.com/)
+- [🅿 Google Fonts](https://fonts.google.com/)
+- [💶 Tabler Icons](https://tablericons.com/)
 
 ## 🗿 Licentie
 
