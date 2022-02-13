@@ -1,4 +1,4 @@
-# 🎨 FDNFT - FDND Squad Page
+# 🎨 TribeFDNFT - FDND Squad Page
 ## 🚀 Inhoudsopgave
 
 - [Beschrijving](#beschrijving)
