@@ -12,10 +12,34 @@ html {
   padding: 0;
   margin: 0;
   box-sizing: border-box;
+  list-style: none;
+  text-decoration: none;
 }
 
 body {
   font-family: "Rubik", sans-serif;
   background-color: var(--marine);
   color: var(--white);
+}
+
+header {
+  padding: 1em 0;
+  background: red;
+  display: flex;
+  align-items: center;
+}
+
+nav ul {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 1em;
+}
+
+nav ul li a {
+  color: var(--white);
+}
+
+nav img {
+  width: 1.7em;
 }
